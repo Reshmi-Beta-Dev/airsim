@@ -1,0 +1,20 @@
+Confidential and Proprietary — Evaluation License
+Copyright (c) 2025. All rights reserved.
+
+1. Grant. Licensor grants Recipient a limited, non-exclusive, non-transferable, revocable license to use the Software solely for internal evaluation and testing purposes.
+
+2. Restrictions. Recipient shall not (a) use the Software for production or commercial purposes; (b) copy, distribute, sublicense, sell, lease, or otherwise transfer the Software; (c) modify, reverse engineer, decompile, or create derivative works of the Software, except to the extent permitted by law; (d) remove or alter any proprietary notices.
+
+3. Ownership. Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights. No ownership rights are transferred under this Agreement.
+
+4. Confidentiality. The Software and related materials constitute Licensor’s confidential and proprietary information. Recipient shall protect such information with the same degree of care as it uses to protect its own confidential information, and at least reasonable care.
+
+5. Term. This license is effective upon delivery and automatically expires 60 days thereafter unless extended in writing by Licensor. Upon expiration or termination, Recipient shall cease all use and destroy all copies.
+
+6. No Warranty; Liability Cap. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT OR THE SOFTWARE.
+
+7. Governing Law. This Agreement shall be governed by the laws of Licensor’s domicile, excluding conflict of law rules.
+
+By using the Software, Recipient agrees to these terms.
+
+

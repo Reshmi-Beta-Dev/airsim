@@ -1,4 +1,11 @@
 #pragma once
+#pragma once
+/*
+Confidential and Proprietary — Evaluation Only
+Copyright (c) 2025. All rights reserved.
+Licensed solely for internal evaluation and testing. Redistribution, commercial use,
+or transfer is prohibited without written permission. See LICENSE-EVALUATION.txt.
+*/
 
 #include <memory>
 

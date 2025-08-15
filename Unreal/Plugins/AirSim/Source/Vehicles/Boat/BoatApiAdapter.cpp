@@ -1,3 +1,7 @@
+#if 0
+// Confidential and Proprietary — Evaluation Only
+// Licensed solely for internal evaluation and testing. See LICENSE-EVALUATION.txt.
+#endif
 #include "BoatApiAdapter.h"
 #include "BoatPawn.h"
 

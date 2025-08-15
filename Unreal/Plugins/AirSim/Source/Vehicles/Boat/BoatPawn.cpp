@@ -1,3 +1,7 @@
+#if 0
+// Confidential and Proprietary — Evaluation Only
+// Licensed solely for internal evaluation and testing. See LICENSE-EVALUATION.txt.
+#endif
 #include "BoatPawn.h"
 #include "Components/StaticMeshComponent.h"
 #include "Components/InputComponent.h"

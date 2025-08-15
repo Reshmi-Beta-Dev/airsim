@@ -1,0 +1,46 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Car",
+  "Vehicles": {
+    "Boat1": {
+      "VehicleType": "Boat",
+      "AutoCreate": true,
+      "PawnBP": "/AirSim/Boat/BP_BoatPawn.BP_BoatPawn_C",
+      "EnableCollisionPassthrough": false,
+      "DefaultSensors": {
+        "imu": {
+          "SensorType": 2,
+          "Enabled": true
+        },
+        "gps": {
+          "SensorType": 3,
+          "Enabled": true
+        },
+        "lidar": {
+          "SensorType": 6,
+          "Enabled": true,
+          "NumberOfChannels": 8,
+          "Range": 100,
+          "RotationsPerSecond": 5,
+          "PointsPerSecond": 10000,
+          "X": 100,
+          "Y": 0,
+          "Z": 120
+        },
+        "front_center": {
+          "SensorType": 0,
+          "ImageType": 0,
+          "Width": 640,
+          "Height": 480,
+          "FOV_Degrees": 90,
+          "Enabled": true,
+          "X": 100,
+          "Y": 0,
+          "Z": 150
+        }
+      }
+    }
+  }
+}
+
+
